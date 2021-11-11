@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{145490E9-A01A-B419-3A33-8724FDF6652D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPS_Scrips/MidiumMonster.cs">
+    <Files>
+      <File FileName="Assets/FPS_Scrips/Weapon.cs" Line="38" Column="18" IsPinned="True" />
+      <File FileName="Assets/FPS_Scrips/Monster.cs" Line="28" Column="40" IsPinned="True" />
+      <File FileName="Assets/FPS_Scrips/PlayerController.cs" Line="33" Column="34" />
+      <File FileName="Assets/Sound.cs" Line="28" Column="27" />
+      <File FileName="Assets/FPS_Scrips/MidiumMonster.cs" Line="210" Column="28" />
+      <File FileName="Assets/Round.cs" Line="54" Column="28" />
+      <File FileName="Assets/FPS_Scrips/MyBotton.cs" Line="1" Column="1" />
+      <File FileName="Assets/FPS_Scrips/GameState.cs" Line="44" Column="14" />
+      <File FileName="Assets/FPS_Scrips/MidumAttack.cs" Line="17" Column="1" />
+      <File FileName="Assets/FPS_Scrips/BossMonsterAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/DestroyParticle.cs" Line="7" Column="4" />
+      <File FileName="Assets/FPS_Scrips/Bullet.cs" Line="11" Column="9" />
+      <File FileName="Assets/FPS_Scrips/TextManager.cs" Line="20" Column="43" />
+      <File FileName="Assets/TitleManager.cs" Line="13" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c8eab0c5-b79c-4a09-9738-fbcfebfe0bf1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/kazuki/Unity/MonDes/Assets/FPS_Scrips/Monster.cs" relfile="Assets/FPS_Scrips/Monster.cs" line="69" column="6" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

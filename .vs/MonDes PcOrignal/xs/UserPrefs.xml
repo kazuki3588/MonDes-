@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{080D7C23-A310-C9E5-0BDE-ADD2A68A8EF6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPS_Scrips/OperationManager.cs">
+    <Files>
+      <File FileName="Assets/FPS_Scrips/TitleManager.cs" Line="9" Column="28" />
+      <File FileName="Assets/FPS_Scrips/OperationManager.cs" Line="11" Column="49" />
+      <File FileName="Assets/FPS_Scrips/MidumAttack.cs" />
+      <File FileName="Assets/FPS_Scrips/Round.cs" />
+      <File FileName="Assets/FPS_Scrips/BossMonsterAttack.cs" />
+      <File FileName="Assets/FPS_Scrips/Bullet.cs" />
+      <File FileName="Assets/FPS_Scrips/DestroyParticle.cs" />
+      <File FileName="Assets/FPS_Scrips/GameState.cs" />
+      <File FileName="Assets/FPS_Scrips/MidiumMonster.cs" />
+      <File FileName="Assets/FPS_Scrips/Monster.cs" />
+      <File FileName="Assets/FPS_Scrips/PlayerController.cs" Line="86" Column="35" />
+      <File FileName="Assets/FPS_Scrips/TextManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c08c8b68-689a-4994-a964-64e7343e289f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,205 @@
+Unity Editor version:    2020.3.21f1 (a38c86f6690f)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.6 (Build 20G165)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Users/kazuki/Unity/2020.3.21f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/kazuki/Unity/MonDes PcOrignal0918
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+52813
+Successfully changed project path to: /Users/kazuki/Unity/MonDes PcOrignal0918
+/Users/kazuki/Unity/MonDes PcOrignal0918
+Using Asset Import Pipeline V2.
+Assets/Gun.FBX/45.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Refreshing native plugins compatible for Editor in 188.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.21f1 (a38c86f6690f)
+[Subsystems] Discovering subsystems at path /Users/kazuki/Unity/2020.3.21f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/kazuki/Unity/MonDes PcOrignal0918/Assets
+GfxDevice: creating device client; threaded=0
+2021-11-10 19:07:36.538 Unity[14252:298647] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-11-10 19:07:36.538 Unity[14252:298647] Metal devices available: 1
+2021-11-10 19:07:36.538 Unity[14252:298647] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-11-10 19:07:36.540 Unity[14252:298647] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Users/kazuki/Unity/2020.3.21f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/kazuki/Unity/2020.3.21f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/kazuki/Unity/2020.3.21f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/kazuki/Unity/2020.3.21f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Users/kazuki/Unity/2020.3.21f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Users/kazuki/Unity/2020.3.21f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002841 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Assets/Gun.FBX/45.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Refreshing native plugins compatible for Editor in 106.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.234 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7235ms)
+		BeginReloadAssembly (219ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1445ms)
+			LoadAssemblies (219ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (598ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (119ms)
+			SetupLoadedEditorAssemblies (440ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (107ms)
+				BeforeProcessingInitializeOnLoad (63ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (63ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004932 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.698 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2700ms)
+		BeginReloadAssembly (475ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (82ms)
+		EndReloadAssembly (2071ms)
+			LoadAssemblies (181ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (878ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (118ms)
+			SetupLoadedEditorAssemblies (679ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (140ms)
+				ProcessInitializeOnLoadAttributes (494ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.024548 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.023035 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Assets/Gun.FBX/45.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.AssemblyValidation:ValidateAssemblyDefinitionFiles () (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssemblyValidation.cs:143)
+
+[/Users/bokken/buildslave/unity/build/Editor/Mono/AssemblyValidation.cs line 143]
+
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Users/kazuki/Unity/2020.3.21f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Assets/Gun.FBX/45.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1757 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 278.8 MB.
+System memory in use after: 277.6 MB.
+
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 6.197453 ms (FindLiveObjects: 0.273813 ms CreateObjectMapping: 0.089490 ms MarkObjects: 5.165175 ms  DeleteObjects: 0.666702 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/FPS_Scrips/TitleManager.cs
+  artifactKey: Guid(d97d2e10b47924567bb5be3338ff5e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS_Scrips/TitleManager.cs using Guid(d97d2e10b47924567bb5be3338ff5e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e88744bf5a4b8b49d7228402dda239e') in 0.566767 seconds 
+  Import took 0.571938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007265 seconds.
+  path: Assets/FPS_Scrips/OperationManager.cs
+  artifactKey: Guid(baeeeb81364c7431582ea2fb30633a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS_Scrips/OperationManager.cs using Guid(baeeeb81364c7431582ea2fb30633a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e2de21e072a930b6408a55a0671797') in 0.003238 seconds 
+  Import took 0.009851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/FPS_Scrips/Round.cs
+  artifactKey: Guid(31124be3a449846c2a1b412a0deabcfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS_Scrips/Round.cs using Guid(31124be3a449846c2a1b412a0deabcfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c921f6f137a57029887d7866625e8009') in 0.004592 seconds 
+  Import took 0.010281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/FPS_Scrips/Weapon.cs
+  artifactKey: Guid(0e3081f9778f6430786f072a5d5a73b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS_Scrips/Weapon.cs using Guid(0e3081f9778f6430786f072a5d5a73b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f7877d3edf38fa2d03574973f4b0bb') in 0.003395 seconds 
+  Import took 0.008292 seconds .
+

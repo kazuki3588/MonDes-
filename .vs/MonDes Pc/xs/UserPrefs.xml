@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D9D22C14-2602-AC92-BC17-E555A861AF15}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPS_Scrips/TitleManager.cs">
+    <Files>
+      <File FileName="Assets/FPS_Scrips/PlayerController.cs" Line="178" Column="41" />
+      <File FileName="Assets/FPS_Scrips/GameState.cs" Line="7" Column="33" />
+      <File FileName="Assets/FPS_Scrips/Weapon.cs" Line="51" Column="29" />
+      <File FileName="Assets/FPS_Scrips/TextManager.cs" Line="32" Column="9" />
+      <File FileName="Assets/FPS_Scrips/TitleManager.cs" Line="13" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e0b56c69-29fa-4ae4-a443-31e1a502ac37" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
